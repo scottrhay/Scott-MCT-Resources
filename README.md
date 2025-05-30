@@ -28,8 +28,6 @@ Whether you're new to AI or ready to build custom applications, this learning pa
 **[Explore Azure AI Courses →](azure_ai.md)**
 
 *Includes: AI-900 Fundamentals, AI-102 Engineer Associate, AI-3016 AI Foundry, plus specialized applied skills*
-### [AI-900: Azure AI Fundamentals](ai-900_AIFundamentals.md)
-### [AI-3016: Develop Copilots in AI Foundry](pl-3016_AIFoundry.md)
 
 ---
 
