@@ -50,6 +50,7 @@ Automate the repetitive tasks that eat up your day. Build apps, workflows, and i
 **[Explore Power Platform Training →](power-platform.md)**<br>
 **[PL-900: Power Platform Fundamentals](pl-900_PowerFundamentals.md)**<br>
 **[PL-200: Power Platform Functional Consultant](pl-200_PowerPlatform.md)**<br>
+**[PL-7001: Power Platform - Power Apps](pl-7001_power-apps.md)**<br>
 **[PL-7002: Power Platform - Power Automate](pl-7002_power-automate.md)**
 
 *Includes: PL-900 Fundamentals, PL-200 Functional Consultant, plus practical automation workshops*
