@@ -62,7 +62,6 @@ Automate the repetitive tasks that eat up your day. Build apps, workflows, and i
 
 The future is AI that works alongside your team. Learn to build, customize, and deploy Copilot solutions that actually help people get work done faster and better.
 
-**[Explore Copilot Training →](copilot.md)**
 **[MS-4018 Draft, Analyze, Present with M365 Copilot →](ms-4018_M365Copilot.md)**<br>
 
 *Includes: Copilot Studio, Microsoft 365 Copilot, AI-3018 Foundations, plus hands-on agent development*
