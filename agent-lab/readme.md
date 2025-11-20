@@ -10,7 +10,7 @@ These are supporting files for creating a Microsoft 365 Copilot agent.
 - [Tone Guide](https://train.aiacopilot.com/agent-lab/tone_guide.docx)  
   Guidance on maintaining consistent voice and tone across communications.
 
-- [Service Descriptions](https://train.aiacopilot.com/agent-lab/product_service.docx)  
+- [Service Descriptions](https://train.aiacopilot.com/agent-lab/products_services.docx)  
   Descriptions of services offered, useful for proposals and onboarding.
 
 ## ✉️ Suggested Prompt Scenarios
