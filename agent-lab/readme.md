@@ -1,6 +1,8 @@
-# 🧠 Microsoft 365 Copilot Agent Lab – Supporting Files
+# 🧠 Microsoft 365 Copilot Agent Lab
 
-These are supporting files for creating a Microsoft 365 Copilot agent.
+Open the [Lab Instructions](https://train.aiacopilot.com/agent-lab/Lab_Instructions.docx)  for the step by step lab instructions.
+
+The following are supporting files for creating a Microsoft 365 Copilot agent.
 
 ## 📎 Reference Documents
 
