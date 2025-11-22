@@ -1,6 +1,6 @@
 # 🧠 Microsoft 365 Copilot Agent Lab
 
-Open the [Lab Instructions](https://train.aiacopilot.com/agent-lab/Lab_Instructions.docx)  for the step by step lab instructions.
+Open the [Lab Instructions](https://train.aiacopilot.com/agent-lab/Lab_Instructions.pdf)  for the step by step lab instructions.
 
 The following are supporting files for creating a Microsoft 365 Copilot agent.
 
