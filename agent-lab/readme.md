@@ -2,9 +2,10 @@
 
 Open the step by step lab insructions for: 
 [ChatGPT](https://train.aiacopilot.com/agent-lab/Lab_Instructions_ChatGPT.pdf)
+or 
 [Copilot](https://train.aiacopilot.com/agent-lab/Lab_Instructions.pdf)
 
-The following are supporting files for creating a Microsoft 365 Copilot agent.
+The following are supporting files for creating the GPT / agent. 
 
 ## 📎 Reference Documents
 
