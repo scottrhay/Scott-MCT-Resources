@@ -12,11 +12,11 @@ The following are supporting files for creating the GPT / agent.
 - [Email Templates](https://train.aiacopilot.com/agent-lab/email_templates.docx)  
   Templates for common client interactions and follow-ups.
 
-- [Tone Guide](https://train.aiacopilot.com/agent-lab/tone_guide.docx)  
-  Guidance on maintaining consistent voice and tone across communications.
-
 - [Service Descriptions](https://train.aiacopilot.com/agent-lab/products_services.docx)  
   Descriptions of services offered, useful for proposals and onboarding.
+
+- [Tone Guide](https://train.aiacopilot.com/agent-lab/tone_guide.docx)  
+  Guidance on maintaining consistent voice and tone across communications. To be consistently used, add to instructions. 
 
 ## ✉️ Suggested Prompt Scenarios
 
