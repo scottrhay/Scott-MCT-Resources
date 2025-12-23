@@ -1,4 +1,4 @@
-# 🧠 Microsoft 365 Copilot Agent Lab
+# 🧠 Microsoft 365 Copilot Agent / ChatGPT GPT Lab
 
 Open the step by step lab insructions for: 
 [ChatGPT](https://train.aiacopilot.com/agent-lab/Lab_Instructions_ChatGPT.pdf)
