@@ -21,88 +21,75 @@ Hey there! I'm Scott Hay, and I'm excited you're here. This site is your one-sto
 
 ## The Four Pillars
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Azure AI
-**Build Intelligent Applications**
+### 🤖 Azure AI — Build Intelligent Applications
 
 From AI fundamentals to production-ready generative AI solutions. Learn to solve real business problems with Azure's AI services.
 
-<a href="azure_ai.md"><img src="https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge" alt="Explore Azure AI"/></a>
+[![Explore Azure AI](https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge)](azure_ai.md)
 
 **Courses:** AI-900 · AI-102 · AI-3016 · Applied Skills
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📊 Power BI
-**Data Analytics That Drive Decisions**
+### 📊 Power BI — Data Analytics That Drive Decisions
 
 Turn spreadsheets into compelling business insights. Create interactive dashboards that help your organization make data-driven decisions.
 
-<a href="pl-300_PowerBI.md"><img src="https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge" alt="Explore Power BI"/></a>
+[![Explore Power BI](https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge)](pl-300_PowerBI.md)
 
 **Courses:** PL-300 Data Analyst
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### ⚡ Power Platform
-**Business Process Automation**
+### ⚡ Power Platform — Business Process Automation
 
 Low-code solutions that save time and reduce errors. Build apps, workflows, and integrations without being a programmer.
 
-<a href="pl-900_PowerFundamentals.md"><img src="https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge" alt="Explore Power Platform"/></a>
+[![Explore Power Platform](https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge)](pl-900_PowerFundamentals.md)
 
 **Courses:** PL-900 · PL-200 · PL-7001 · PL-7002
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🤝 Copilot & Copilot Studio
-**AI Agents and Assistants**
+### 🤝 Copilot & Copilot Studio — AI Agents and Assistants
 
 The future is AI that works alongside your team. Build, customize, and deploy intelligent Copilot solutions.
 
-<a href="copilot.md"><img src="https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge" alt="Explore Copilot"/></a>
+[![Explore Copilot](https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge)](copilot.md)
 
 **Courses:** MS-4018 · MS-4019 · Agent Lab
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## Quick Course Finder
 
 ### Azure AI Track
+
 | Course | Focus | Link |
-|--------|-------|------|
+|:-------|:------|:-----|
 | **AI-900** | AI Fundamentals - Start here if new to AI | [Go →](ai-900_AIFundamentals.md) |
 | **AI-102** | AI Engineer Associate - Build production solutions | [Go →](azure_ai.md#ai-102-azure-ai-engineer-associate) |
 | **AI-3016** | AI Foundry - Hands-on generative AI development | [Go →](pl-3016_AIFoundry.md) |
 
 ### Power Platform Track
+
 | Course | Focus | Link |
-|--------|-------|------|
+|:-------|:------|:-----|
 | **PL-900** | Power Platform Fundamentals | [Go →](pl-900_PowerFundamentals.md) |
 | **PL-200** | Functional Consultant - Professional level | [Go →](pl-200_PowerPlatform.md) |
 | **PL-7001** | Power Apps - Build custom applications | [Go →](pl-7001_power-apps.md) |
 | **PL-7002** | Power Automate - Create automated workflows | [Go →](pl-7002_power-automate.md) |
 
 ### Power BI Track
+
 | Course | Focus | Link |
-|--------|-------|------|
+|:-------|:------|:-----|
 | **PL-300** | Power BI Data Analyst certification | [Go →](pl-300_PowerBI.md) |
 
 ### Copilot Track
+
 | Course | Focus | Link |
-|--------|-------|------|
+|:-------|:------|:-----|
 | **MS-4018** | Draft, Analyze, Present with M365 Copilot | [Go →](ms-4018_M365Copilot.md) |
 | **MS-4019** | Transform Business Processes with Agents | [Go →](ms-4019_M365Copilot_Agents.md) |
 | **Agent Lab** | Hands-on: Build your first Copilot agent | [Go →](agent-lab/readme.md) |
