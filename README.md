@@ -57,7 +57,7 @@ The future is AI that works alongside your team. Build, customize, and deploy in
 
 [![Explore Copilot](https://img.shields.io/badge/Explore_Courses_→-00BCD4?style=for-the-badge)](copilot.md)
 
-**Courses:** MS-4018 · MS-4019 · Agent Lab
+**Courses:** MS-4018 · MS-4019 · MS-4023 · Agent Lab
 
 ---
 
@@ -92,6 +92,7 @@ The future is AI that works alongside your team. Build, customize, and deploy in
 |:-------|:------|:-----|
 | **MS-4018** | Draft, Analyze, Present with M365 Copilot | [Go →](ms-4018_M365Copilot.md) |
 | **MS-4019** | Transform Business Processes with Agents | [Go →](ms-4019_M365Copilot_Agents.md) |
+| **MS-4023** | Transform Ideas into Action with Copilot Chat | [Go →](ms-4023_CopilotChat.md) |
 | **Agent Lab** | Hands-on: Build your first Copilot agent | [Go →](agent-lab/readme.md) |
 
 ---

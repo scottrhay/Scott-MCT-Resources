@@ -2,29 +2,24 @@
   <img src="https://img.shields.io/badge/AIA_Copilot-Training_Hub-00BCD4?style=for-the-badge&labelColor=00838F" alt="AIA Copilot Training Hub"/>
 </p>
 
-<h1 align="center">Microsoft Copilot Resources</h1>
+<h1 align="center">MS-4023: Transform Ideas into Action with Copilot Chat</h1>
 
-<p align="center"><strong>AI assistants that transform how you work</strong></p>
+<p align="center"><strong>Get started with Microsoft 365 Copilot Chat and craft effective prompts</strong></p>
 
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/←_Back_to-Home-00BCD4?style=flat-square" alt="Home"/></a>
+  <a href="copilot.md"><img src="https://img.shields.io/badge/Copilot-Courses-00838F?style=flat-square" alt="Copilot"/></a>
   <a href="https://linkedin.com/in/scotthay"><img src="https://img.shields.io/badge/Instructor-Scott_Hay-00838F?style=flat-square" alt="Instructor"/></a>
 </p>
 
 ---
 
-## Copilot Courses
+## Course Resources
 
-| Course | Description | Link |
-|--------|-------------|------|
-| **MS-4018** | Draft, Analyze, Present with M365 Copilot | [Course Page](ms-4018_M365Copilot.md) |
-| **MS-4019** | Transform Business Processes with Agents | [Course Page](ms-4019_M365Copilot_Agents.md) |
-| **MS-4023** | Transform Ideas into Action with Copilot Chat | [Course Page](ms-4023_CopilotChat.md) |
-| **Agent Lab** | Hands-on Copilot Agent Workshop | [Workshop](agent-lab/readme.md) |
-
----
-
-*Additional Copilot materials coming soon...*
+| Resource | Description | Link |
+|----------|-------------|------|
+| **Training Course** | Complete MS-4023 learning path | [Microsoft Learn - Training](https://learn.microsoft.com/en-us/training/courses/ms-4023) |
+| **Hands-on Labs** | Practice exercises and lab instructions | [Microsoft Learning GitHub](https://microsoftlearning.github.io/MS-4023-Explore-Microsoft-365-Copilot-Chat/) |
 
 ---
 
