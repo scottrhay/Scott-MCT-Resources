@@ -1,17 +1,17 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/AIA_Copilot-Training_Hub-00BCD4?style=for-the-badge&labelColor=00838F" alt="AIA Copilot Training Hub"/>
+</p>
 
-<img src="https://img.shields.io/badge/AIA_Copilot-Training_Hub-00BCD4?style=for-the-badge&labelColor=00838F" alt="AIA Copilot Training Hub"/>
+<h1 align="center">Microsoft Training Resources</h1>
 
-# Microsoft Training Resources
+<p align="center"><strong>Your one-stop resource for Microsoft AI & Power Platform courses</strong></p>
 
-**Your one-stop resource for Microsoft AI & Power Platform courses**
-
-[![Instructor](https://img.shields.io/badge/Instructor-Scott_Hay-00BCD4?style=flat-square)](https://linkedin.com/in/scotthay)
-[![Organization](https://img.shields.io/badge/Organization-AIA_Copilot-00838F?style=flat-square)](https://aiacopilot.com)
+<p align="center">
+  <a href="https://linkedin.com/in/scotthay"><img src="https://img.shields.io/badge/Instructor-Scott_Hay-00BCD4?style=flat-square" alt="Instructor"/></a>
+  <a href="https://aiacopilot.com"><img src="https://img.shields.io/badge/Organization-AIA_Copilot-00838F?style=flat-square" alt="Organization"/></a>
+</p>
 
 ---
-
-</div>
 
 ## Welcome
 
@@ -93,18 +93,18 @@ After 25+ years in tech and countless hours in the classroom, here's what helps 
 
 ---
 
-<div align="center">
+<h3 align="center">Questions or Need Help?</h3>
 
-### Questions or Need Help?
+<p align="center">Don't hesitate to reach out during our sessions or drop me a line afterward.</p>
 
-Don't hesitate to reach out during our sessions or drop me a line afterward.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/scotthay)
+<p align="center">
+  <a href="https://linkedin.com/in/scotthay"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-<img src="https://img.shields.io/badge/AIA_Copilot-Empowering_AI_Excellence-00BCD4?style=flat-square&labelColor=00838F" alt="AIA Copilot"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AIA_Copilot-Empowering_AI_Excellence-00BCD4?style=flat-square&labelColor=00838F" alt="AIA Copilot"/>
+</p>
 
-*© 2025 AIA Copilot | Scott Hay*
-
-</div>
+<p align="center"><em>© 2025 AIA Copilot | Scott Hay</em></p>
