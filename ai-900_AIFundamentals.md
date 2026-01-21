@@ -36,4 +36,4 @@
   <img src="https://img.shields.io/badge/AIA_Copilot-Empowering_AI_Excellence-00BCD4?style=flat-square&labelColor=00838F" alt="AIA Copilot"/>
 </p>
 
-<p align="center"><em>© 2025 AIA Copilot | Scott Hay</em></p>
+<p align="center"><em>© 2026 AIA Copilot | Scott Hay</em></p>
