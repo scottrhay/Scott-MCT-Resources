@@ -1,26 +1,39 @@
-# Welcome to Scott's Microsoft Training Hub
+<div align="center">
+
+<img src="https://img.shields.io/badge/AIA_Copilot-Training_Hub-00BCD4?style=for-the-badge&labelColor=00838F" alt="AIA Copilot Training Hub"/>
+
+# Microsoft Training Resources
+
+**Your one-stop resource for Microsoft AI & Power Platform courses**
+
+[![Instructor](https://img.shields.io/badge/Instructor-Scott_Hay-00BCD4?style=flat-square)](https://linkedin.com/in/scotthay)
+[![Organization](https://img.shields.io/badge/Organization-AIA_Copilot-00838F?style=flat-square)](https://aiacopilot.com)
+
+---
+
+</div>
+
+## Welcome
 
 Hey there! I'm Scott Hay, and I'm excited you're here. Whether you're just starting your AI journey or looking to add Power Platform skills to your toolkit, you've come to the right place.
 
-## What You'll Find Here
+This site is your one-stop resource for the Microsoft courses I teach. I've gathered all the links, labs, and bonus materials you need to succeed.
 
-This site is your one-stop resource for the Microsoft courses I teach. I've gathered all the links, labs, and bonus materials you need to succeed - no hunting around for scattered resources.
+---
 
 ## Quick Start Guide
 
-**New to AI?** Start with AI-900 to build your foundation  
-**Ready for hands-on AI development?** Jump into AI-3016  
-**Want to automate your business processes?** The Power Platform courses are perfect for you
+| Your Goal | Recommended Starting Point |
+|-----------|---------------------------|
+| **New to AI?** | Start with [AI-900](ai-900_AIFundamentals.md) to build your foundation |
+| **Ready for hands-on AI development?** | Jump into [Azure AI Courses](azure_ai.md) |
+| **Want to automate business processes?** | The [Power Platform courses](#-power-platform---business-process-automation) are perfect for you |
 
 ---
 
-## My Core Training Areas (AI App Development, AI Agents, Automation, Data Analytics)
+## Course Categories
 
-These are the skills that I see making the biggest difference for businesses today. Each area builds on practical experience from my years at Microsoft and Amazon, plus real client work through AIA Copilot.
-
----
-
-## 🤖 Azure AI - Building Intelligent Applications
+### 🤖 Azure AI - Building Intelligent Applications
 *From AI fundamentals to production-ready solutions*
 
 Whether you're new to AI or ready to build custom applications, this learning path takes you from concepts to code. We'll focus on solving real business problems with Azure's AI services.
@@ -31,10 +44,10 @@ Whether you're new to AI or ready to build custom applications, this learning pa
 
 ---
 
-## 📊 Power BI - Data Analytics That Drive Decisions
+### 📊 Power BI - Data Analytics That Drive Decisions
 *Turn your spreadsheets into compelling business insights*
 
-Stop drowning in Excel files. Learn to create interactive dashboards and reports that help your organization make data-driven decisions. Perfect for analysts, managers, and anyone working with business data.
+Stop drowning in Excel files. Learn to create interactive dashboards and reports that help your organization make data-driven decisions.
 
 **[Explore Power BI Training →](pl-300_PowerBI.md)**
 
@@ -42,47 +55,56 @@ Stop drowning in Excel files. Learn to create interactive dashboards and reports
 
 ---
 
-## ⚡ Power Platform - Business Process Automation
+### ⚡ Power Platform - Business Process Automation
 *Low-code solutions that save time and reduce errors*
 
-Automate the repetitive tasks that eat up your day. Build apps, workflows, and integrations without being a programmer. This is where I help businesses save 50% or more of their manual work.
+Automate the repetitive tasks that eat up your day. Build apps, workflows, and integrations without being a programmer.
 
-**[Explore Power Platform Training →](power-platform.md)**<br>
-**[PL-900: Power Platform Fundamentals](pl-900_PowerFundamentals.md)**<br>
-**[PL-200: Power Platform Functional Consultant](pl-200_PowerPlatform.md)**<br>
-**[PL-7001: Power Platform - Power Apps](pl-7001_power-apps.md)**<br>
-**[PL-7002: Power Platform - Power Automate](pl-7002_power-automate.md)**
-
-*Includes: PL-900 Fundamentals, PL-200 Functional Consultant, plus practical automation workshops*
+| Course | Description |
+|--------|-------------|
+| [PL-900: Power Platform Fundamentals](pl-900_PowerFundamentals.md) | Foundation course for Power Platform |
+| [PL-200: Functional Consultant](pl-200_PowerPlatform.md) | Professional-level Power Platform skills |
+| [PL-7001: Power Apps](pl-7001_power-apps.md) | Build custom business applications |
+| [PL-7002: Power Automate](pl-7002_power-automate.md) | Create automated workflows |
 
 ---
 
-## 🤝 Copilot - AI Agents and Assistants
+### 🤝 Copilot - AI Agents and Assistants
 *Create intelligent helpers that understand your business*
 
-The future is AI that works alongside your team. Learn to build, customize, and deploy Copilot solutions that actually help people get work done faster and better.
+The future is AI that works alongside your team. Learn to build, customize, and deploy Copilot solutions.
 
-**[MS-4018 Draft, Analyze, Present with M365 Copilot](ms-4018_M365Copilot.md)**<br>
-**[MS-4019 Transform your everyday business processes with agents](ms-4019_M365Copilot_Agents.md)**<br>
-
-*Includes: Copilot Studio, Microsoft 365 Copilot, AI-3018 Foundations, plus hands-on agent development*
+| Course | Description |
+|--------|-------------|
+| [MS-4018: Draft, Analyze, Present with M365 Copilot](ms-4018_M365Copilot.md) | Core Copilot productivity skills |
+| [MS-4019: Transform Business Processes with Agents](ms-4019_M365Copilot_Agents.md) | Build intelligent agents |
+| [Agent Lab: Hands-on Workshop](agent-lab/readme.md) | Build your first Copilot agent |
 
 ---
 
 ## Learning Tips from Experience
 
-After 25+ years in tech and countless hours in the classroom, here's what I've learned helps students succeed:
+After 25+ years in tech and countless hours in the classroom, here's what helps students succeed:
 
 - **Start with the business problem** - Don't get caught up in features. Focus on what you're trying to solve.
 - **Practice immediately** - Use the labs, but also try building something for your own work.
 - **Ask questions** - I'm here to help, and chances are others have the same question.
 - **Connect the dots** - Look for ways these tools work together. That's where the real magic happens.
 
-## Questions or Need Help?
+---
 
-Don't hesitate to reach out during our sessions or drop me a line afterward. I want to see you succeed, and sometimes a quick conversation can clear up what hours of reading couldn't.
+<div align="center">
 
-Let's build something great together!
+### Questions or Need Help?
 
-*- Scott*<br>
-[Linkedin](https://linkedin.com/in/scotthay)
+Don't hesitate to reach out during our sessions or drop me a line afterward.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/scotthay)
+
+---
+
+<img src="https://img.shields.io/badge/AIA_Copilot-Empowering_AI_Excellence-00BCD4?style=flat-square&labelColor=00838F" alt="AIA Copilot"/>
+
+*© 2025 AIA Copilot | Scott Hay*
+
+</div>

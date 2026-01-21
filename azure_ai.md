@@ -1,13 +1,28 @@
+<div align="center">
+
+<img src="https://img.shields.io/badge/AIA_Copilot-Training_Hub-00BCD4?style=for-the-badge&labelColor=00838F" alt="AIA Copilot Training Hub"/>
+
 # Azure AI - Building Intelligent Applications
+
+**From AI fundamentals to production-ready solutions**
+
+[![Home](https://img.shields.io/badge/←_Back_to-Home-00BCD4?style=flat-square)](README.md)
+[![Instructor](https://img.shields.io/badge/Instructor-Scott_Hay-00838F?style=flat-square)](https://linkedin.com/in/scotthay)
+
+---
+
+</div>
 
 Ready to build AI that actually solves problems? This is your roadmap from understanding AI concepts to deploying intelligent applications that make a real difference.
 
 ## Your Learning Journey
 
-**Start here if you're new to AI:** AI-900 builds your foundation  
-**Ready to build solutions:** AI-102 teaches you to architect and implement  
-**Want hands-on development:** AI-3016 gets you building in AI Foundry  
-**Need specific skills:** Applied Skills courses for targeted capabilities
+| Your Background | Recommended Path |
+|----------------|------------------|
+| **New to AI** | Start with AI-900 to build your foundation |
+| **Ready to build solutions** | AI-102 teaches you to architect and implement |
+| **Want hands-on development** | AI-3016 gets you building in AI Foundry |
+| **Need specific skills** | Applied Skills courses for targeted capabilities |
 
 ---
 
@@ -121,8 +136,6 @@ These courses teach specific skills you can apply immediately. Perfect for build
 ### AI-3019: Build AI Apps with Azure Database for PostgreSQL
 *Integrate AI capabilities with modern database solutions*
 
-Learn to combine AI services with PostgreSQL to create intelligent, data-driven applications.
-
 | Resource | Link |
 |----------|------|
 | **Training Course** | [AI-3019 Training](https://learn.microsoft.com/en-us/training/courses/ai-3019t00) |
@@ -182,14 +195,23 @@ Explore AI's creative potential through hands-on projects that combine technolog
 Having worked with AI at Microsoft and Amazon, I focus on practical applications that solve real business problems. In my classes, we'll:
 
 - **Start with business scenarios** before diving into technical details
-- **Build working solutions** you can adapt for your own projects  
+- **Build working solutions** you can adapt for your own projects
 - **Focus on prompt engineering** and getting AI to work reliably
 - **Cover the gotchas** I've learned from implementing AI in production
 
 The goal isn't just passing exams - it's building AI solutions that actually help your business save time and money.
 
-## Questions or Need Help?
+---
 
-Each of these courses builds on the others, but you don't have to take them in order. During our sessions, we'll figure out the best path based on your background and goals.
+<div align="center">
 
-Ready to get started? Let's build some intelligent applications!
+[![Home](https://img.shields.io/badge/←_Back_to-Home-00BCD4?style=for-the-badge)](README.md)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/scotthay)
+
+---
+
+<img src="https://img.shields.io/badge/AIA_Copilot-Empowering_AI_Excellence-00BCD4?style=flat-square&labelColor=00838F" alt="AIA Copilot"/>
+
+*© 2025 AIA Copilot | Scott Hay*
+
+</div>
