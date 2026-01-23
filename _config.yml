@@ -1,0 +1,16 @@
+# Site settings - Redirect to main site
+title: AIA Copilot Training
+description: Redirecting to aiacopilot.com/training
+url: "https://train.aiacopilot.com"
+
+# Exclude markdown files - only serve index.html redirect
+include:
+  - index.html
+  - CNAME
+
+exclude:
+  - README.md
+  - "*.md"
+  - _layouts
+  - assets
+  - agent-lab
